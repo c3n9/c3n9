@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **c3n9/c3n9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=c3n9&theme=windows-dark&border_radius=3.3&date_format=j%2Fn%5B%2FY%5D&type=png)](https://git.io/streak-stats)
