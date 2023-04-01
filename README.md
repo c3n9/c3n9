@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=c3n9&theme=windows-dark&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D&dates=EBEBEB&stroke=EBEBEB)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c3n9&show_icons=true&theme=dark&border_radius=50)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c3n9&show_icons=true&theme=github_dark&border_radius=50)
