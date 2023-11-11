@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=c3n9&theme=windows-dark&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D&dates=EBEBEB&stroke=EBEBEB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=c3n9&theme=javascript-dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
 
 
 
