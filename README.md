@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-   [![GitHub Streak](https://streak-stats.demolab.com?user=c3n9&theme=javascript-dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=c3n9&theme=javascript-dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+
 
 
 
