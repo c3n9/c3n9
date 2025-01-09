@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 [![GitHub Streak](https://streak-stats.demolab.com?user=c3n9&theme=javascript-dark&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+-->
 
 
 
